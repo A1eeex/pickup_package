@@ -1,0 +1,2 @@
+export const PHONE_VALID_NUMBER = '793793793'
+export const KODE_VALID_NUMBER = '2022'
